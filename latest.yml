@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.1
 files:
-  - url: Tafel-Farbgruppen-Tool-Setup-1.0.0.exe
-    sha512: c5ZzBEpkaiPJWgBVlH8rFQ+DQgskb1VqbnfiALrQlR5TeAVBSAwlZbEB5z/NyHTHmwJyao3bSj78W260bsnwHw==
-    size: 93129717
-path: Tafel-Farbgruppen-Tool-Setup-1.0.0.exe
-sha512: c5ZzBEpkaiPJWgBVlH8rFQ+DQgskb1VqbnfiALrQlR5TeAVBSAwlZbEB5z/NyHTHmwJyao3bSj78W260bsnwHw==
-releaseDate: '2026-05-20T12:07:51.017Z'
+  - url: Tafel-Farbgruppen-Tool-Setup-1.0.1.exe
+    sha512: 6Ey5EIr7xZExUQA1DQhe+8Nzyk0VeGbIglZiHv6dffsfqZEva8fAi8euXBGiRDkT+1kZ4Pi8Zcu5pGV3TpVSkQ==
+    size: 93129726
+path: Tafel-Farbgruppen-Tool-Setup-1.0.1.exe
+sha512: 6Ey5EIr7xZExUQA1DQhe+8Nzyk0VeGbIglZiHv6dffsfqZEva8fAi8euXBGiRDkT+1kZ4Pi8Zcu5pGV3TpVSkQ==
+releaseDate: '2026-05-20T12:13:35.979Z'
